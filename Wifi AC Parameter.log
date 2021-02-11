@@ -1,0 +1,21 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo32 -N"D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi with Hall with Home network\AC Parameter Wifi PF Turki\Wifi AC Parameter.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi with Hall with Home network\AC Parameter Wifi PF Turki\" -SP"D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi PF Turki\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi with Hall\" -SP"D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Packages\Network_WiFi_PIC\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Network_WiFi_PIC\Uses\" "AC Parameter.c" "WiFi.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sound.mcl" "__Lib_ADC_A_D.mcl" "__Lib_EEPROM_256.mcl" "__Lib_SPI_c345d014.mcl" "__Lib_UART_c67d67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_Net_Wireless_MCW1001_18.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\uses\P18'	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	AC Parameter.c
+diagnostics: 219	123	Compiled Successfully	AC Parameter.c
+hint: 68	1164	Variable 'total_hall' has been eliminated by optimizer	AC Parameter.c
+diagnostics: 0	122	Compilation Started	WiFi.c
+hint: 429	1163	Variable 'response' has been declared, but not used	WiFi.c
+hint: 429	1163	Variable 'i' has been declared, but not used	WiFi.c
+hint: 429	1163	Variable 'AnCounter' has been declared, but not used	WiFi.c
+hint: 432	1163	Variable 'StatusVar' has been declared, but not used	WiFi.c
+diagnostics: 698	123	Compiled Successfully	WiFi.c
+hint: 566	1164	Variable 'response' has been eliminated by optimizer	WiFi.c
+diagnostics: 0	127	All files Compiled in 297 ms	 
+hint: 0	1144	Used RAM (bytes): 1109 (73%)  Free RAM (bytes): 406 (27%)	Used RAM (bytes): 1109 (73%)  Free RAM (bytes): 406 (27%)
+hint: 0	1144	Used ROM (bytes): 27219 (83%)  Free ROM (bytes): 5549 (17%)	Used ROM (bytes): 27219 (83%)  Free ROM (bytes): 5549 (17%)
+diagnostics: 0	125	Project Linked Successfully	Wifi AC Parameter.mcppi
+diagnostics: 0	128	Linked in 343 ms	 
+diagnostics: 0	129	Project 'Wifi AC Parameter.mcppi' completed: 718 ms	 
+diagnostics: 0	103	Finished successfully: 16 ﬂ«‰Ê‰†«·√Ê· 2014, 21:04:21	Wifi AC Parameter.mcppi

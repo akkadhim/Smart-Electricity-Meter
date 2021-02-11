@@ -1,0 +1,73 @@
+[DEVICE]
+Name=P18F45K22
+Clock=32000000
+[MEMORY_MODEL]
+Value=-1
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=AC Parameter.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=2
+File0=AC Parameter.c
+File1=WiFi.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=2
+File0=AC Parameter.c
+File1=WiFi.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=10
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\
+Path2=D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi with Hall with Home network\AC Parameter Wifi PF Turki\
+Path3=D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi PF Turki\
+Path4=C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\
+Path5=C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\uses\P18\
+Path6=D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi with Hall\
+Path7=D:\programming&CCt Design\Microcontroller\Projects\Electricity Monitoring System\AC Parameter Wifi\
+Path8=C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Packages\Network_WiFi_PIC\Uses\
+Path9=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Network_WiFi_PIC\Uses\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=13
+File0=ADC
+File1=C_Math
+File2=C_Stdlib
+File3=C_Type
+File4=EEPROM
+File5=Lcd
+File6=Lcd_Constants
+File7=Sound
+File8=SPI
+File9=UART
+File10=Conversions
+File11=C_String
+File12=Net_Wireless_MCW1001_18
+[EXPANDED NODES]
+Node1=Sources
+Node2=Output Files
+Count=2
